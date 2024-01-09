@@ -1,7 +1,7 @@
 import requests
 import json
 
-class_no = 1
+class_no = 2
 
 url = "https://solved.ac/api/v3/search/problem"
 headers = {"Accept": "application/json"}
